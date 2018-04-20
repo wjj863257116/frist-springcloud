@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frist-springboot-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frist-springboot-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frist-springboot-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frist-springboot-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frist-springboot-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frist-springboot-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frist-springboot-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frist-springboot-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frist-springboot-notice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frist-springboot-provide-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frist-springboot-sleuth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frist-springboot-testregistry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frist-springboot-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frist-springboot-util" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/frist-springboot.iml" filepath="$PROJECT_DIR$/frist-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frist-springboot-admin/frist-springboot-admin.iml" filepath="$PROJECT_DIR$/frist-springboot-admin/frist-springboot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frist-springboot-common/frist-springboot-common.iml" filepath="$PROJECT_DIR$/frist-springboot-common/frist-springboot-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frist-springboot-config-client/frist-springboot-config-client.iml" filepath="$PROJECT_DIR$/frist-springboot-config-client/frist-springboot-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frist-springboot-config-server/frist-springboot-config-server.iml" filepath="$PROJECT_DIR$/frist-springboot-config-server/frist-springboot-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frist-springboot-consumer/frist-springboot-consumer.iml" filepath="$PROJECT_DIR$/frist-springboot-consumer/frist-springboot-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frist-springboot-dao/frist-springboot-dao.iml" filepath="$PROJECT_DIR$/frist-springboot-dao/frist-springboot-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frist-springboot-dashboard/frist-springboot-dashboard.iml" filepath="$PROJECT_DIR$/frist-springboot-dashboard/frist-springboot-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frist-springboot-gateway/frist-springboot-gateway.iml" filepath="$PROJECT_DIR$/frist-springboot-gateway/frist-springboot-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frist-springboot-notice/frist-springboot-notice.iml" filepath="$PROJECT_DIR$/frist-springboot-notice/frist-springboot-notice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frist-springboot-provide-test/frist-springboot-provide-test.iml" filepath="$PROJECT_DIR$/frist-springboot-provide-test/frist-springboot-provide-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frist-springboot-sleuth/frist-springboot-sleuth.iml" filepath="$PROJECT_DIR$/frist-springboot-sleuth/frist-springboot-sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frist-springboot-testregistry/frist-springboot-testregistry.iml" filepath="$PROJECT_DIR$/frist-springboot-testregistry/frist-springboot-testregistry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frist-springboot-turbine/frist-springboot-turbine.iml" filepath="$PROJECT_DIR$/frist-springboot-turbine/frist-springboot-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frist-springboot-util/frist-springboot-util.iml" filepath="$PROJECT_DIR$/frist-springboot-util/frist-springboot-util.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>测试</title>
+</head>
+<body>
+
+   <h5>
+       第一个页面
+   </h5>
+
+    <table  border="1">
+   <tr th:each="sddate:${sddate}">
+       <td th:text="${sddate.data}"></td>
+       <td th:text="${sddate.address}"></td>
+       <td th:text="${sddate.id_car}"></td>
+   </tr>
+
+    </table>
+</body>
+</html>

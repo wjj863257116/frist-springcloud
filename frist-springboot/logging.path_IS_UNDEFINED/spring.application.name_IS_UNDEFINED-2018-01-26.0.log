@@ -1,0 +1,89 @@
+[ INFO ] [2018-01-26 17:15:31] boot.NoticeApplication [48] - Starting NoticeApplication on DESKTOP-FCMTAJR with PID 10488 (D:\javaworks\workspace_study\frist-springboot\frist-springboot-notice\target\classes started by saike in D:\javaworks\workspace_study\frist-springboot)
+[ DEBUG] [2018-01-26 17:15:31] boot.NoticeApplication [51] - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+[ INFO ] [2018-01-26 17:15:31] boot.NoticeApplication [597] - The following profiles are active: dev
+[ INFO ] [2018-01-26 17:15:31] org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext [583] - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@48fa0f47: startup date [Fri Jan 26 17:15:31 CST 2018]; root of context hierarchy
+[ INFO ] [2018-01-26 17:15:35] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [89] - Tomcat initialized with port(s): 8080 (http)
+[ INFO ] [2018-01-26 17:15:35] org.springframework.web.context.ContextLoader [276] - Root WebApplicationContext: initialization completed in 3399 ms
+[ INFO ] [2018-01-26 17:15:35] org.springframework.boot.web.servlet.ServletRegistrationBean [190] - Mapping servlet: 'dispatcherServlet' to [/]
+[ INFO ] [2018-01-26 17:15:35] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'characterEncodingFilter' to: [/*]
+[ INFO ] [2018-01-26 17:15:35] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[ INFO ] [2018-01-26 17:15:35] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[ INFO ] [2018-01-26 17:15:35] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'requestContextFilter' to: [/*]
+[ INFO ] [2018-01-26 17:15:36] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [534] - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@48fa0f47: startup date [Fri Jan 26 17:15:31 CST 2018]; root of context hierarchy
+[ INFO ] [2018-01-26 17:15:36] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[ INFO ] [2018-01-26 17:15:36] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[ INFO ] [2018-01-26 17:15:36] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[ INFO ] [2018-01-26 17:15:36] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[ INFO ] [2018-01-26 17:15:36] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[ INFO ] [2018-01-26 17:15:36] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [201] - Tomcat started on port(s): 8080 (http)
+[ INFO ] [2018-01-26 17:15:36] boot.NoticeApplication [57] - Started NoticeApplication in 6.705 seconds (JVM running for 8.149)
+[ INFO ] [2018-01-26 17:17:44] boot.listener.NoticeListener [16] - -=-=-=-= 获取数据为:rabbitMQ成功调用notice模块
+[ INFO ] [2018-01-26 17:18:10] boot.listener.NoticeListener [16] - -=-=-=-= 获取数据为:rabbitMQ成功调用notice模块
+[ INFO ] [2018-01-26 17:19:17] boot.listener.NoticeListener [16] - -=-=-=-= 获取数据为:rabbitMQ成功调用notice模块
+[ INFO ] [2018-01-26 17:21:59] boot.listener.NoticeListener [16] - -=-=-=-= 获取数据为:rabbitMQ成功调用notice模块
+[ INFO ] [2018-01-26 17:26:13] boot.listener.NoticeListener [16] - -=-=-=-= 获取数据为:rabbitMQ成功调用notice模块
+[ INFO ] [2018-01-26 17:31:56] boot.NoticeApplication [48] - Starting NoticeApplication on DESKTOP-FCMTAJR with PID 14832 (D:\javaworks\workspace_study\frist-springboot\frist-springboot-notice\target\classes started by saike in D:\javaworks\workspace_study\frist-springboot)
+[ DEBUG] [2018-01-26 17:31:56] boot.NoticeApplication [51] - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+[ INFO ] [2018-01-26 17:31:56] boot.NoticeApplication [597] - The following profiles are active: dev
+[ INFO ] [2018-01-26 17:31:56] org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext [583] - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@48fa0f47: startup date [Fri Jan 26 17:31:56 CST 2018]; root of context hierarchy
+[ INFO ] [2018-01-26 17:31:59] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [89] - Tomcat initialized with port(s): 8080 (http)
+[ INFO ] [2018-01-26 17:31:59] org.springframework.web.context.ContextLoader [276] - Root WebApplicationContext: initialization completed in 3105 ms
+[ INFO ] [2018-01-26 17:31:59] org.springframework.boot.web.servlet.ServletRegistrationBean [190] - Mapping servlet: 'dispatcherServlet' to [/]
+[ INFO ] [2018-01-26 17:31:59] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'characterEncodingFilter' to: [/*]
+[ INFO ] [2018-01-26 17:31:59] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[ INFO ] [2018-01-26 17:31:59] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[ INFO ] [2018-01-26 17:31:59] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'requestContextFilter' to: [/*]
+[ INFO ] [2018-01-26 17:32:00] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [534] - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@48fa0f47: startup date [Fri Jan 26 17:31:56 CST 2018]; root of context hierarchy
+[ INFO ] [2018-01-26 17:32:00] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[ INFO ] [2018-01-26 17:32:00] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[ INFO ] [2018-01-26 17:32:00] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[ INFO ] [2018-01-26 17:32:00] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[ INFO ] [2018-01-26 17:32:00] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[ INFO ] [2018-01-26 17:32:02] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [201] - Tomcat started on port(s): 8080 (http)
+[ INFO ] [2018-01-26 17:32:02] boot.NoticeApplication [57] - Started NoticeApplication in 8.984 seconds (JVM running for 19.026)
+[ INFO ] [2018-01-26 17:33:26] boot.listener.NoticeListener [16] - -=-=-=-= 获取数据为:rabbitMQ成功调用notice模块
+[ INFO ] [2018-01-26 17:33:57] boot.listener.NoticeListener [16] - -=-=-=-= 获取数据为:rabbitMQ成功调用notice模块
+[ INFO ] [2018-01-26 17:37:09] boot.listener.NoticeListener [16] - -=-=-=-= 获取数据为:rabbitMQ成功调用notice模块
+[ INFO ] [2018-01-26 17:44:48] boot.NoticeApplication [48] - Starting NoticeApplication on DESKTOP-FCMTAJR with PID 29488 (D:\javaworks\workspace_study\frist-springboot\frist-springboot-notice\target\classes started by saike in D:\javaworks\workspace_study\frist-springboot)
+[ DEBUG] [2018-01-26 17:44:48] boot.NoticeApplication [51] - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+[ INFO ] [2018-01-26 17:44:48] boot.NoticeApplication [597] - The following profiles are active: dev
+[ INFO ] [2018-01-26 17:44:48] org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext [583] - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@48fa0f47: startup date [Fri Jan 26 17:44:48 CST 2018]; root of context hierarchy
+[ INFO ] [2018-01-26 17:44:53] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [89] - Tomcat initialized with port(s): 8080 (http)
+[ INFO ] [2018-01-26 17:44:54] org.springframework.web.context.ContextLoader [276] - Root WebApplicationContext: initialization completed in 5639 ms
+[ INFO ] [2018-01-26 17:44:54] org.springframework.boot.web.servlet.ServletRegistrationBean [190] - Mapping servlet: 'dispatcherServlet' to [/]
+[ INFO ] [2018-01-26 17:44:54] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'characterEncodingFilter' to: [/*]
+[ INFO ] [2018-01-26 17:44:54] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[ INFO ] [2018-01-26 17:44:54] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[ INFO ] [2018-01-26 17:44:54] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'requestContextFilter' to: [/*]
+[ INFO ] [2018-01-26 17:44:54] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [534] - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@48fa0f47: startup date [Fri Jan 26 17:44:48 CST 2018]; root of context hierarchy
+[ INFO ] [2018-01-26 17:44:55] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[ INFO ] [2018-01-26 17:44:55] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[ INFO ] [2018-01-26 17:44:55] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[ INFO ] [2018-01-26 17:44:55] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[ INFO ] [2018-01-26 17:44:55] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[ INFO ] [2018-01-26 17:44:55] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [201] - Tomcat started on port(s): 8080 (http)
+[ INFO ] [2018-01-26 17:44:55] boot.NoticeApplication [57] - Started NoticeApplication in 8.785 seconds (JVM running for 15.109)
+[ INFO ] [2018-01-26 17:45:57] boot.listener.NoticeListener [16] - -=-=-=-= 获取数据为:rabbitMQ成功调用notice模块
+[ INFO ] [2018-01-26 17:46:30] boot.listener.NoticeListener [16] - -=-=-=-= 获取数据为:rabbitMQ成功调用notice模块
+[ INFO ] [2018-01-26 18:05:26] boot.NoticeApplication [48] - Starting NoticeApplication on DESKTOP-FCMTAJR with PID 1948 (D:\javaworks\workspace_study\frist-springboot\frist-springboot-notice\target\classes started by saike in D:\javaworks\workspace_study\frist-springboot)
+[ DEBUG] [2018-01-26 18:05:26] boot.NoticeApplication [51] - Running with Spring Boot v1.5.4.RELEASE, Spring v4.3.9.RELEASE
+[ INFO ] [2018-01-26 18:05:26] boot.NoticeApplication [597] - The following profiles are active: dev
+[ INFO ] [2018-01-26 18:05:26] org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext [583] - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@48fa0f47: startup date [Fri Jan 26 18:05:26 CST 2018]; root of context hierarchy
+[ INFO ] [2018-01-26 18:05:30] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [89] - Tomcat initialized with port(s): 8080 (http)
+[ INFO ] [2018-01-26 18:05:30] org.springframework.web.context.ContextLoader [276] - Root WebApplicationContext: initialization completed in 3928 ms
+[ INFO ] [2018-01-26 18:05:31] org.springframework.boot.web.servlet.ServletRegistrationBean [190] - Mapping servlet: 'dispatcherServlet' to [/]
+[ INFO ] [2018-01-26 18:05:31] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'characterEncodingFilter' to: [/*]
+[ INFO ] [2018-01-26 18:05:31] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+[ INFO ] [2018-01-26 18:05:31] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+[ INFO ] [2018-01-26 18:05:31] org.springframework.boot.web.servlet.FilterRegistrationBean [258] - Mapping filter: 'requestContextFilter' to: [/*]
+[ INFO ] [2018-01-26 18:05:32] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [534] - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@48fa0f47: startup date [Fri Jan 26 18:05:26 CST 2018]; root of context hierarchy
+[ INFO ] [2018-01-26 18:05:32] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+[ INFO ] [2018-01-26 18:05:32] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [543] - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+[ INFO ] [2018-01-26 18:05:32] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[ INFO ] [2018-01-26 18:05:32] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[ INFO ] [2018-01-26 18:05:32] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [362] - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+[ INFO ] [2018-01-26 18:05:33] org.springframework.boot.context.embedded.tomcat.TomcatEmbeddedServletContainer [201] - Tomcat started on port(s): 8080 (http)
+[ INFO ] [2018-01-26 18:05:33] boot.NoticeApplication [57] - Started NoticeApplication in 8.364 seconds (JVM running for 15.301)
+[ INFO ] [2018-01-26 18:06:08] boot.listener.NoticeListener [16] - -=-=-=-= 获取数据为:rabbitMQ   notice模块消耗provider
+[ INFO ] [2018-01-26 18:06:32] boot.listener.NoticeListener [16] - -=-=-=-= 获取数据为:rabbitMQ   notice模块消耗provider
+[ INFO ] [2018-01-26 18:09:31] boot.listener.NoticeListener [16] - -=-=-=-= 获取数据为:rabbitMQ   notice模块消耗provider

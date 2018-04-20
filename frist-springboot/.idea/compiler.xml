@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="frist-springboot-admin" />
+        <module name="frist-springboot-common" />
+        <module name="frist-springboot-config-client" />
+        <module name="frist-springboot-config-server" />
+        <module name="frist-springboot-consumer" />
+        <module name="frist-springboot-dao" />
+        <module name="frist-springboot-dashboard" />
+        <module name="frist-springboot-gateway" />
+        <module name="frist-springboot-notice" />
+        <module name="frist-springboot-provide-test" />
+        <module name="frist-springboot-registrytest" />
+        <module name="frist-springboot-sleuth" />
+        <module name="frist-springboot-testregistry" />
+        <module name="frist-springboot-turbine" />
+        <module name="frist-springboot-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="frist-springboot" target="1.8" />
+      <module name="frist-springboot-admin" target="1.8" />
+      <module name="frist-springboot-common" target="1.8" />
+      <module name="frist-springboot-config-client" target="1.8" />
+      <module name="frist-springboot-config-server" target="1.8" />
+      <module name="frist-springboot-consumer" target="1.8" />
+      <module name="frist-springboot-dao" target="1.8" />
+      <module name="frist-springboot-daoDate" target="1.8" />
+      <module name="frist-springboot-dashboard" target="1.8" />
+      <module name="frist-springboot-gateway" target="1.8" />
+      <module name="frist-springboot-notice" target="1.8" />
+      <module name="frist-springboot-provide-test" target="1.8" />
+      <module name="frist-springboot-registry" target="1.8" />
+      <module name="frist-springboot-registrytest" target="1.8" />
+      <module name="frist-springboot-registty-a" target="1.8" />
+      <module name="frist-springboot-sleuth" target="1.8" />
+      <module name="frist-springboot-testregistry" target="1.8" />
+      <module name="frist-springboot-turbine" target="1.8" />
+      <module name="frist-springboot-util" target="1.8" />
+      <module name="registry" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-util/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-registrytest/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-testregistry/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-provide-test/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-notice/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-common/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-sleuth/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-config-client/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/frist-springboot-daoDate/pom.xml" />
+        <option value="$PROJECT_DIR$/frist-springboot-registry/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/target/classes" />
+  </component>
+</project>
